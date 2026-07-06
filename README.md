@@ -33,4 +33,6 @@ I'm passionate about building intelligent systems and AI-powered applications th
 
 ## 📫 Connect with Me
 
-Coming Soon...
+- LinkedIn: www.linkedin.com/in/reman-ghawanni-b2753b240
+- GitHub: github.com/reman205
+- Email: remanhussam@gmail.com
