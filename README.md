@@ -1,38 +1,65 @@
-# Hi, I'm Reman 👋
+<h1 align="center">Hi 👋, I'm Reman Hussam Ghawanni</h1>
 
-🎓 Artificial Intelligence Student
+<h3 align="center">
+Artificial Intelligence Student at Taibah University
+</h3>
 
-I'm passionate about building intelligent systems and AI-powered applications that solve real-world problems.
-
----
-
-## 🚀 About Me
-
-- 🤖 Interested in Artificial Intelligence
-- 🧠 Currently learning Machine Learning & Deep Learning
-- 💻 Building AI-powered applications
-- 🌱 Always learning new technologies
-
----
-
-## 🛠️ Languages & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode" />
+<p align="center">
+Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and building AI-powered applications.
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 👩‍💻 About Me
 
-- 🏥 InsightOS – Hospital AI Executive Dashboard
-- 📚 AI Study Platform
-- 👶 Smart Baby Monitoring System
+- 🎓 Artificial Intelligence Student at Taibah University
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 💡 Building intelligent systems and modern web applications
+- 🌱 Currently learning Deep Learning & Generative AI
+- 🚀 Always exploring new technologies
 
 ---
 
-## 📫 Connect with Me
+## 🛠️ Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🏥 InsightOS
+
+📚 AI Study Platform
+
+👶 Nra AI Baby Monitor
+
+📊 Global Freelancers Data Analysis
+
+---
+
+## 🌐 Connect with Me
 
 - LinkedIn: www.linkedin.com/in/reman-ghawanni-b2753b240
-- GitHub: github.com/reman205
+
+- GitHub: https://github.com/reman205
+
 - Email: remanhussam@gmail.com
