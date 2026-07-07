@@ -46,13 +46,17 @@ Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and
 
 ## 🚀 Featured Projects
 
-🏥 InsightOS
+🏥 **InsightOS**
+https://reman205.github.io/InsightOS/
 
-📚 AI Study Platform
+📚 **AI Study Platform**
+https://reman205.github.io/ai-study-platform/
 
-👶 Nra AI Baby Monitor
+👶 **Nra AI Baby Monitor**
+(Coming Soon)
 
-📊 Global Freelancers Data Analysis
+📊 **Global Freelancers Data Analysis**
+GitHub Repository
 
 ---
 
